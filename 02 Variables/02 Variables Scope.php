@@ -26,3 +26,4 @@ echo "\n";
 myFunction(); // 20 25
 echo "$loc"; // This will return a blank line because the local variable can't be accessed here
 echo "$z"; // This will return a blank line because the static local variable can't be accessed here
+?>
