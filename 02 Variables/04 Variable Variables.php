@@ -1,5 +1,4 @@
 <?php
-// Run this file from terminal or from an IDE/Text Editor
 /*
 Variable Variables
 With PHP, you can use one variable to specify another variable's name.

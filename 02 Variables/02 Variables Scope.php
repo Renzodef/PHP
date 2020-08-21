@@ -1,5 +1,4 @@
 <?php
-// Run this file from terminal or from an IDE/Text Editor 
 /*
 Variables Scope:
 global: declared outside a specific function

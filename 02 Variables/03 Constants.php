@@ -1,5 +1,4 @@
 <?php
-// Run this file from terminal or from an IDE/Text Editor
 /* Constants
 Constants are similar to variables except that they cannot be changed or undefined after they've been defined.
 Begin the name of your constant with a letter or an underscore.

@@ -1,5 +1,4 @@
 <?php
-// Run this file from terminal or from an IDE/Text Editor 
 /*
 PHP is a Loosely Typed Language: it automatically converts
 the variable to the correct data type, depending on its value.
