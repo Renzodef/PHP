@@ -1,5 +1,5 @@
-<!-- Put "03 Form.html" and "03 GETT.php" in the www folder of AMPPS
-And open "03 Form.html" in the browser with AMPPS
+<!-- Put "03 Form.html" and "03 GET.php" in the www folder of AMPPS
+Open "03 Form.html" in the browser with AMPPS
 Compile the form and submit it -->
 
 <!-- GET

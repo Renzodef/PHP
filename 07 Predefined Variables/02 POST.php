@@ -1,5 +1,5 @@
 <!-- Put "02 Form.html" and "02 POST.php" in the www folder of AMPPS
-And open "02 Form.html" in the browser with AMPPS
+Open "02 Form.html" in the browser with AMPPS
 Compile the form and submit it -->
 
 <!-- POST
